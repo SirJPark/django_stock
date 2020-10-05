@@ -1,3 +1,6 @@
+# Copyright (c) 2019-2020 James Park All Rights Reserved
+
+
 from django.shortcuts import render, redirect
 from .models import Stock
 from .forms import StockForm
